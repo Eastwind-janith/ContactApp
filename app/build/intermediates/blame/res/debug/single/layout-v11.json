@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/Nisala/Desktop/Project/ContactApp/app/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
+        "source": "/Users/Nisala/.android/build-cache/f339dd99aaedd0a8386418ca39484430971cfc56/output/res/layout-v11/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/Nisala/Desktop/Project/ContactApp/app/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/Users/Nisala/.android/build-cache/f339dd99aaedd0a8386418ca39484430971cfc56/output/res/layout-v11/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/Nisala/Desktop/Project/ContactApp/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/Users/Nisala/.android/build-cache/f339dd99aaedd0a8386418ca39484430971cfc56/output/res/layout-v11/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/Nisala/Desktop/Project/ContactApp/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/Users/Nisala/.android/build-cache/f339dd99aaedd0a8386418ca39484430971cfc56/output/res/layout-v11/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/Nisala/Desktop/Project/ContactApp/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/Nisala/.android/build-cache/f339dd99aaedd0a8386418ca39484430971cfc56/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Users/Nisala/Desktop/Project/ContactApp/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/Users/Nisala/.android/build-cache/f339dd99aaedd0a8386418ca39484430971cfc56/output/res/layout-v11/notification_template_big_media_custom.xml"
+    }
+]

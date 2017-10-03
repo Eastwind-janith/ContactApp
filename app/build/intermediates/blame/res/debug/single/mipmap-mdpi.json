@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/Nisala/Desktop/Project/ContactApp/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_card_pic.png",
+        "source": "/Users/Nisala/Desktop/Project/ContactApp/app/src/main/res/mipmap-mdpi/ic_card_pic.png"
+    },
+    {
+        "merged": "/Users/Nisala/Desktop/Project/ContactApp/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher_round.png",
+        "source": "/Users/Nisala/Desktop/Project/ContactApp/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/Nisala/Desktop/Project/ContactApp/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/Users/Nisala/Desktop/Project/ContactApp/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/Nisala/Desktop/Project/ContactApp/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher_ew.png",
+        "source": "/Users/Nisala/Desktop/Project/ContactApp/app/src/main/res/mipmap-mdpi/ic_launcher_ew.png"
+    }
+]
